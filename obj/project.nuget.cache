@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fbMvggcrn3nE6ZOu+GxlxdoJWPFhJhWlVNPO1Lzz0mEiKUulG7XGAWY1ViHycCkxbYk0V5xvq2VDT6esn8BP2A==",
+  "success": true,
+  "projectFilePath": "D:\\Asap\\Public\\F#\\wip\\wip.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdallah.mustapha\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
